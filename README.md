@@ -1,5 +1,8 @@
 # Tree-LSTM Semantic Visualizer
 
+You can run it in the link provided, although it will take a few minutes for the streamlit hosting service to wake up. 
+[link](https://lstm-tree-generator.streamlit.app/)
+
 ## Overview
 
 This project provides an intuitive interface for exploring how distributed semantic representations are composed in Tree-structured LSTMs, combining:
