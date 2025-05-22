@@ -1,7 +1,7 @@
 # Tree-LSTM Semantic Visualizer
 
 You can run it in the link provided, although it will take a few minutes for the streamlit hosting service to wake up. 
-[link](https://lstm-tree-generator.streamlit.app/)
+[ VIEW HERE](https://lstm-tree-generator.streamlit.app/)
 
 ## Overview
 
